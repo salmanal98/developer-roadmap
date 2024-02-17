@@ -41,7 +41,7 @@ The bitwise NOT operation (`~`) is a unary operation that takes a single number,
 Example:
 
 ```cpp
-int result = ~5; // result will be -6 (1111 1010)
+int result = ~5; // result will be -6 (0101 1010)
 ```
 
 ##  Bitwise Left Shift (`<<`)
